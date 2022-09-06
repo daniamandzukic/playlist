@@ -1,2 +1,2 @@
-# playlist
-Best genre spotify playlists, made by Dania
+# Spotify playlists
+Free playlists for discovering new music genres
